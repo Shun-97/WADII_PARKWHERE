@@ -1,0 +1,13 @@
+PY's API KEY *do not abuse - AIzaSyCOziaqUNIy8TWTVVHjM3O7befp8RcSrq8 
+
+Directions Service Documentation
+https://developers.google.com/maps/documentation/javascript/directions
+
+Sample example for Directions Service 
+https://developers.google.com/maps/documentation/javascript/examples/directions-simple
+
+Google Maps API Tutorial: How to Use the Directions API with Maps
+https://www.youtube.com/watch?v=Y5PtPYyrbYY
+
+SetPanel documentation (instructions how to get to a place - not done yet)
+https://developers.google.com/maps/documentation/javascript/examples/directions-panel#maps_directions_panel-html

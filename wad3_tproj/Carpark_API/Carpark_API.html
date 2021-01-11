@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+          integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+            integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+            crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+            integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+            crossorigin="anonymous"></script>
+    <title>Carpark Rates</title>
+
+    <!-- CSS (Use this section if you need to) -->
+    <style>
+
+
+    </style>
+
+
+
+</head>
+
+<body>
+
+<!-- YOUR CODE GOES HERE -->
+
+<div class="container ">
+
+
+
+    <h2 class="text-center">Carpark Rates</h2>
+
+    <div class="input-group" id="rates">
+        <input type="text" id="location" class="form-control">
+    </div>
+    <!--<button class="btn btn-danger mb-3" type='submit' onclick='get_carpark_rate()'>Carpark Search-->
+        <!--HDB+MALL</button>-->
+    <button class="btn btn-danger mb-3" type='submit' onclick='get_carpark_Avail()'>Carpark Avail
+        HDB</button>
+
+    <div id="table"></div>
+    <script src="Api_pull.js"></script>
+</body>
+
+
+
+</html>
