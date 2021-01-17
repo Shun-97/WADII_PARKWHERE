@@ -40,7 +40,7 @@ if (isset($_SESSION['username'])) {
     </div>
 
     <script defer
-        src="https://maps.googleapis.com/maps/api/js?&libraries=geometry&key=AIzaSyCOziaqUNIy8TWTVVHjM3O7befp8RcSrq8"></script>
+        src="https://maps.googleapis.com/maps/api/js?&libraries=geometry&key=Removed"></script>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <script src="js/main.js"></script>
     <script src="Carpark_API/OneMap_search.js"></script> <!-- added onemap api search -->

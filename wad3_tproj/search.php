@@ -15,7 +15,7 @@ if (isset($_SESSION['username'])) {
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="js/main.js"></script>
     <script src="js/inview.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCOziaqUNIy8TWTVVHjM3O7befp8RcSrq8&libraries=places"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=Removed&libraries=places"></script>
 </head>
 
 <body>
